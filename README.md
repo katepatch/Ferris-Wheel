@@ -12,6 +12,6 @@ Deployed via Github [pages](https://katepatch.github.io/Ferris-Wheel/)
 
 ## Questions
 
-For questions regarding this project or any others I can be reached at:<br>
+For questions regarding this project or any others I can be reached at:</br>
 Github: [katepatch](https://github.com/katepatch)</br>
 Email: kate.epatch@gmail.com
