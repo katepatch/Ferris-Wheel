@@ -6,9 +6,9 @@
 
 Deployed via Github [pages](https://katepatch.github.io/Ferris-Wheel/)
 
-## Screenshot
+## GIF
 
-![screenshot](./assets/Screenshot%202023-05-04%20at%2010.10.06%20PM.png)
+![GIF](./assets/giphy.gif)
 
 ## Questions
 
